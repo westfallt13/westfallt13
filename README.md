@@ -2,19 +2,19 @@
 
 🎨 Hi, I’m Thomas — Artist First, Developer Always 🎨
 
-I blend creative vision with technical precision. My work lives at the intersection of art, code, and systems — where ideas become interactive, visual, and alive. I design experiences, build tools, and craft digital worlds with intention.
+I blend creative vision with technical precision. My heart shows in my work, and my work lives at the intersection of art, code, and systems — where ideas become interactive, visual, and alive. I design experiences, build tools, and craft digital worlds with intention.
 
 🌐 Connect With Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-westfall-225186376/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Beachfall_)
 
 🧩 What I Do 🧩
 
 - Web Development — Clean, responsive interfaces built with HTML, CSS, JavaScript, React, and Node.
-- Game Development — HD2D workflows, pixel art, 3D modeling, Unreal Engine pipelines.
+- Game Development — 2D Workflows, pixel art, and Godot's GDScript.
 - AI Integration & Local Tooling — Offline-first workflows, model orchestration, and creator‑focused automation.
 - Open Source — Tools, experiments, and systems that empower other creators.
+- Infrastructure setup, monitoring, maintenance, and deployment.
 
 🚀 What I’m Building 🚀
 
@@ -22,6 +22,7 @@ I blend creative vision with technical precision. My work lives at the intersect
 - Game‑ready 3D and HD2D art
 - Web tools that blend aesthetics with performance
 - Experiments in creative automation and interactive storytelling
+- Ubuntu Servers for web hosting
 
 🔧 How I Work 🔧
 
@@ -31,5 +32,5 @@ Focused on clarity, efficiency, and expressive design
 
 🤝 Let’s Collaborate 🤝
 
-I’m open to freelance work, creative partnerships, and projects that push boundaries.
+I’m open to freelance work, opportunities for growth, creative partnerships, and projects that push boundaries.
 If you’re building something imaginative — I’d love to help bring it to life.
