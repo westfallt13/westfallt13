@@ -10,7 +10,7 @@ I blend creative vision with technical precision. My heart shows in my work, and
 
 🧩 What I Do 🧩
 
-- Web Development — Clean, responsive interfaces built with HTML, CSS, JavaScript, React, and Node.
+- Web Development — Clean, responsive web solutions built with HTML, CSS, JavaScript, React, Python, SQL and Node, and more.
 - Game Development — 2D Workflows, pixel art, and Godot's GDScript.
 - AI Integration & Local Tooling — Offline-first workflows, model orchestration, and creator‑focused automation.
 - Open Source — Tools, experiments, and systems that empower other creators.
