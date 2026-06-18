@@ -18,10 +18,10 @@ I blend creative vision with technical precision. My heart shows in my work, and
 
 🚀 What I’m Building 🚀
 
-- Modular pipelines for local AI‑assisted asset creation
-- Game‑ready 3D and HD2D art
+- Game‑ready 2D pixel art
 - Web tools that blend aesthetics with performance
 - Experiments in creative automation and interactive storytelling
+- Video game core frameworks
 - Ubuntu Servers for web hosting
 
 🔧 How I Work 🔧
