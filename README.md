@@ -35,4 +35,4 @@ Focused on clarity, efficiency, and expressive design
 I’m open to freelance or full-time work, opportunities for growth, creative partnerships, and projects that push boundaries.
 If you’re building something imaginative — I’d love to help bring it to life.
 
-[[Personal Website]](https://www.beachfall.studio)
+[Personal Website](https://www.beachfall.studio)
